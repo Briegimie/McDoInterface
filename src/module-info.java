@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author LEDOUJET
+ *
+ */
+module mcDoInterface {
+}
